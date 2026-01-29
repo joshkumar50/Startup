@@ -2,7 +2,6 @@ import { motion, useScroll, useTransform } from 'framer-motion';
 import { MotionWrapper } from '../components/motion/MotionWrapper';
 import { TiltCard } from '../components/motion/TiltCard';
 import { Spotlight } from '../components/motion/Spotlight';
-import { MagneticButton } from '../components/ui/MagneticButton';
 import { servicesData } from '../data/mockData';
 
 
